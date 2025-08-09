@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OneDay</string>
+    <string name="balance_widget_description">Shows your financial summary.</string>
+    <string name="home_widget_description">Shows your daily Task.</string>
+</resources>

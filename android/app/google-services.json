@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "437385978364",
+    "project_id": "oneday-b3715",
+    "storage_bucket": "oneday-b3715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437385978364:android:e4d79c960b84ffce7d1279",
+        "android_client_info": {
+          "package_name": "com.urdev.oneday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437385978364-ak0h9dsef1dk0bnetc3qigg3pv501ef4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urdev.oneday",
+            "certificate_hash": "b5e5475483f2a04ae553357a689cb836804b8cd6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmTdDqaUq-ExciBTcFkswiMQc3U0Gkks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
