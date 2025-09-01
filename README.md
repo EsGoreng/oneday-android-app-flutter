@@ -1,11 +1,11 @@
+<p align="center">
+<img src="https://github.com/EsGoreng/oneday-android-app-flutter/blob/main/oneday_feature_banner_2.png" alt="OneDay App Showcase"/>
+</p>
+
 OneDay: Your Journey to a Better You
 Why wait for 'someday' when your journey to a better you starts with OneDay?
 
 OneDay adalah aplikasi revolusioner yang mengintegrasikan semua alat yang Anda butuhkan untuk mencapai kesehatan finansial, produktivitas harian, dan kesejahteraan mental. Hentikan kerumitan beralih antar aplikasi—semua yang Anda butuhkan kini ada di ujung jari Anda, disajikan dalam dasbor yang indah dan personal.
-
-<p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=OneDay+App+Showcase" alt="OneDay App Showcase"/>
-</p>
 
 ✨ Tentang Proyek Ini
 OneDay dirancang untuk membantu Anda mengambil kendali penuh atas hidup Anda. Kami menggabungkan tiga pilar penting—keuangan, kebiasaan, dan suasana hati—ke dalam satu platform yang mulus. Lupakan kerumitan mengelola banyak aplikasi, dan mulailah perjalanan Anda menuju diri yang lebih terorganisir, produktif, dan bahagia bersama kami.
