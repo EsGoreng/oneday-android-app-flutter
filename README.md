@@ -53,7 +53,7 @@ Start your journey to becoming more **organized, productive, and happier** with 
 
 📲 **Download OneDay now and begin your journey!**  
 
-/*
+<!--
 
 <p align="center">
   <a href="https://play.google.com/store">
@@ -67,7 +67,7 @@ Start your journey to becoming more **organized, productive, and happier** with 
   </a>
 </p>
 
-*/
+-->
 
 ### 📥 Direct APK Download
 If you want to try the app without using Play Store/App Store, you can download the APK file directly from Google Drive:  
